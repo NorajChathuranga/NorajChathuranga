@@ -22,5 +22,5 @@
 
 ### 📫 How to reach me
 - GitHub: https://github.com/NorajChathuranga  
-- Email: your-norajchathurangae@gmail.com  
+- Email: norajchathurangae@gmail.com  
 - LinkedIn: https://linkedin.com/in/noraj-chathuranga
